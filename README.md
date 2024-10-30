@@ -5,7 +5,6 @@ In this paper, we propose an efficient and effective approach to localize the ro
 
 ![overview](https://github.com/user-attachments/assets/8e85580c-7d6b-4e93-aff7-6ef2ecc42fad)
 
-```
 
 ## Quick Start
 - Install Requirements
