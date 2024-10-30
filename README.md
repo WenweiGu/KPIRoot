@@ -1,7 +1,7 @@
 # KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems
 
 This is the public repository for our paper **"KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems"** accepted by ISSRE 2024, Research Track. 
-In this paper, we propose an automated approach to extract fault-indicating information from logs.
+In this paper, we propose an efficient and effective approach to localize the root causes of VM instances.
 
 ![overview](https://github.com/user-attachments/assets/8e85580c-7d6b-4e93-aff7-6ef2ecc42fad)
 
